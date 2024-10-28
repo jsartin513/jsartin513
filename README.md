@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 📫 How to reach me: jsartin513@gmail.com or [via LinkedIn](https://www.linkedin.com/in/jessica-sartin-6a060412/)
+- 📰 I've written a couple of [blog posts](https://medium.com/@jessicadoherty)
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning about raspberry pi/home automation set ups.
 - 🔭 I’m currently working on tooling to create dodgeball highlight clips
