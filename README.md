@@ -6,11 +6,6 @@
 - 🌱 I’m currently learning about raspberry pi/home automation set ups to manage my gardens
 - 🔭 I’m currently working on tooling to create dodgeball highlight clips
 
-## March 2025 update
-I'm on the job market due to a team-wide furlough. I'm looking for remote senior and staff engineer roles.
-I have ~10 years of experience at startups, generally full-stack and flexible to lean either front- or back-end as needed.
-Due to the nature of the furlough, I'm open to part-time or contract roles. Feel free to reach out!
-
 ## Outside of work
 I'm CIO and board member of [Boston Dodgeball League](https://www.youtube.com/@BostonDodgeballLeague). I'm excited to grow the sport of competitive dodgeball in Boston!
 
